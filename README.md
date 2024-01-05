@@ -24,6 +24,7 @@ Try our prototype yourself [here]().
 2. **Usage:**
    - Allow the website to use your location.
    - Klick on Generate Route to receive your personilized escape route.
+
 ## 🌐 Our GitHub Page
 You can access our GitHub page [here](https://real-projects-digitalization.github.io/ss22-gpteam/).
 ## 📝 Documentation
