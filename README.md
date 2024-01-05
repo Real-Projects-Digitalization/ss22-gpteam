@@ -10,10 +10,7 @@ In the face of increasing natural disasters, individuals often lack accessible a
 ## Key Features
 - **Personalized Escape Routes:**
   - Generate customized evacuation plans based on real-time conditions.
-
-(- **Real-time Information:**
-  - Provide up-to-date information on natural disasters and emergency alerts.)
-
+  - 
 - **User-Friendly Interface:**
   - Intuitive design for easy navigation and quick access to critical information.
 
