@@ -15,15 +15,14 @@ In the face of increasing natural disasters, individuals often lack accessible a
   - Intuitive design for easy navigation and quick access to critical information.
 
 ## 🚀 Getting Started
-Try our prototype yourself [here]().
-
 **How it works**
 1. **Installation:**
    - No installation required. Access the platform through [EscapePathFinder.com](https://www.EscapePathFinder.com).
-
 2. **Usage:**
    - Allow the website to use your location.
    - Klick on Generate Route to receive your personilized escape route.
+  
+Try our prototype yourself [here]().
 
 ## 🌐 Our GitHub Page
 You can access our GitHub page [here](https://real-projects-digitalization.github.io/ss22-gpteam/).
