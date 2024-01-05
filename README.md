@@ -1,5 +1,5 @@
 # EscapePathFinder - Emergency Escape Route Generator
-<img width="793" alt="logo" src="https://github.com/Real-Projects-Digitalization/ss22-gpteam/assets/128691569/2419c382-0e3b-420a-a140-fd824dcba9de">
+![Alt-Text](images/logo.png)
 
 ## About EscapePathFinder
 Hello and welcome to EscapePathFinder. EscapePathFinder is a web platform designed to provide personalized escape routes during natural disasters. Our goal is to enhance the safety and preparedness of communities in disaster-prone areas by providing a user-friendly and reliable tool for emergency escape planning.
