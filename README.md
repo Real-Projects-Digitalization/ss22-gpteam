@@ -1,4 +1,4 @@
-# EscapePathFinder - Emergency Escape Route Generator
+# EscapePathFinder
 ![Alt-Text](images/logo.png)
 
 ## About EscapePathFinder
