@@ -22,7 +22,7 @@ In the face of increasing natural disasters, individuals often lack accessible a
    - Allow the website to use your location.
    - Klick on Generate Route to receive your personilized escape route.
   
-Try our prototype yourself [here]().
+Try our prototype yourself [here](https://www.figma.com/proto/YgMZCOct0g5RMm4Q3lU0IZ/Prototype-2?type=design&node-id=8-109&t=0wOM1V8xzpxSHY39-0&scaling=scale-down&page-id=0%3A1).
 
 ## 🌐 Our GitHub Page
 You can access our GitHub page [here](https://real-projects-digitalization.github.io/ss22-gpteam/).
