@@ -1,0 +1,3 @@
+Problem Statement:
+
+In the face of natural or man-made disasters, the safety and efficient evacuation of civilians remain critical challenges. Traditional escape route planning often lacks adaptability to dynamic scenarios, hindering the effectiveness of emergency response efforts. Recognizing this, our project aims to address the need for optimized escape routes using artificial intelligence (AI). The goal is to develop an AI-driven solution that considers near to real-time data, population density, and geographical factors to enhance the speed and safety of evacuation procedures, ultimately improving disaster resilience in affected communities.
