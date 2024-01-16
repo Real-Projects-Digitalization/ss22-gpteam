@@ -15,18 +15,9 @@ In the face of increasing natural disasters, individuals often lack accessible a
   - Intuitive design for easy navigation and quick access to critical information.
 
 ## 🚀 Getting Started
-**How it works**
-1. **Installation:**
-   - No installation required. Access the platform through [EscapePathFinder.com](https://www.figma.com/proto/YgMZCOct0g5RMm4Q3lU0IZ/Prototype-2?type=design&node-id=25-491&t=0wOM1V8xzpxSHY39-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=25%3A491).
-2. **Usage:**
-   - Allow the website to use your location.
-   - Klick on Generate Route to receive your personilized escape route.
-  
 Try our prototype yourself [here](https://www.figma.com/proto/YgMZCOct0g5RMm4Q3lU0IZ/Prototype-2?type=design&node-id=8-109&t=0wOM1V8xzpxSHY39-0&scaling=scale-down&page-id=0%3A1).
-
 ## 🌐 Our GitHub Page
 You can access our GitHub page [here](https://real-projects-digitalization.github.io/ss22-gpteam/).
 ## 📝 Documentation
 You can access our GitHub Wiki for detailed documentation [here](https://github.com/Real-Projects-Digitalization/ss22-gpteam/wiki).
-
 ## Thank you for choosing EscapePathFinder! Your safety is our priority.
