@@ -9,8 +9,7 @@ In the face of increasing natural disasters, individuals often lack accessible a
 **EscapePathFinder** is a web platform designed to address the challenges posed by natural disasters. By leveraging artificial intelligence, sattelite-, gps- and real-time-data, the platform generates personalized escape routes for individuals. Users in emergency situations will recive a text message where they can generate a personilzed escape route.
 ## Key Features
 - **Personalized Escape Routes:**
-  - Generate customized evacuation plans based on real-time conditions.
-  - 
+  - Generate customized evacuation routes based on real-time conditions.
 - **User-Friendly Interface:**
   - Intuitive design for easy navigation and quick access to critical information.
 
