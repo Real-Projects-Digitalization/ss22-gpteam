@@ -1,6 +1,6 @@
 # EscapePathFinder
 ![Alt-Text](images/logo.png)
-              "Empowering safety: AI-driven Escape routes for civilians"
+### Our Mission: Empowering safety: AI-driven Escape routes for civilians
 ## About EscapePathFinder
 Hello and welcome to EscapePathFinder. EscapePathFinder is a web platform designed to provide personalized escape routes during natural disasters. Our goal is to enhance the safety and preparedness of communities in disaster-prone areas by providing a user-friendly and reliable tool for emergency escape planning.
 ## The Problem
