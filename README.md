@@ -20,3 +20,4 @@ You can access our GitHub page [here](https://real-projects-digitalization.githu
 ## 📝 Documentation
 You can access our GitHub Wiki for detailed documentation [here](https://github.com/Real-Projects-Digitalization/ss22-gpteam/wiki).
 ## Thank you for choosing EscapePathFinder! Your safety is our priority.
+Team members:Michael Mathies, Timur Ismoilov, Mahmoud El Awad, Thomas Holzer, Sophia Buttmann
